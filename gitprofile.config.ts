@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Auger Mora',
-    description: '',
+    description: 'Computer Engineering Student at Tecnocampus',
     imageURL: '',
   },
   social: {
