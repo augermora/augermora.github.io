@@ -97,6 +97,13 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'Freelancer',
+      position: 'Software Developer, Support, etc.',
+      from: 'September 2021',
+      to: 'Present',
+      companyLink: '',
+    },
+    {
       company: 'Ajuntament de Tarrés',
       position: 'Website Development',
       from: 'August 2021',
